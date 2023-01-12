@@ -1,0 +1,2 @@
+# unitysimpleutility
+Unity用：ほぼ１つで実装できるユーティリティ機能の集合ライブラリ
