@@ -1,0 +1,14 @@
+{
+    "name": "CustomDate",
+    "rootNamespace": "SyskenTLib.SimpleUtility.CustomDate",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
